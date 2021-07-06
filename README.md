@@ -1,7 +1,7 @@
 # WhatsApp-Web-Spam-Script
 hehe
 
-Open WhatsApp Web in chrome or mozila firefox
+Open WhatsApp Web in chrome or mozila firefox \n
 Open developer tools, insert the code in console
 Type the  text you want to send and the number of times you want to send
 OK
